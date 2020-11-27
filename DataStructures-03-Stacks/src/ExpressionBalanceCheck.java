@@ -3,7 +3,7 @@ import java.util.*;
 public class ExpressionBalanceCheck {
 
     public static void main(String[] args) {
-        System.out.println("Please enter your expression.");
+        System.out.println("Please enter your expression :");
         Scanner scanner=new Scanner(System.in);
 
         String Exp = scanner.next();
